@@ -3,7 +3,6 @@
  */
 package akka.stream.alpakka.s3.impl
 
-
 import akka.http.scaladsl.model.{ HttpEntity, MediaTypes }
 import akka.http.scaladsl.model.headers.RawHeader
 import akka.stream.alpakka.s3.acl.CannedAcl
